@@ -1,0 +1,985 @@
+date,touchpoint,touchpoints
+2023-01-02,affiliate,3
+2023-01-02,direct visit,4
+2023-01-02,display,1
+2023-01-02,email,1
+2023-01-02,online video,1
+2023-01-02,paid search,3
+2023-01-03,affiliate,4
+2023-01-03,direct visit,5
+2023-01-03,display,1
+2023-01-03,email,7
+2023-01-03,online video,2
+2023-01-03,organic search,6
+2023-01-03,paid search,6
+2023-01-03,paid social media,1
+2023-01-04,affiliate,2
+2023-01-04,direct visit,12
+2023-01-04,display,3
+2023-01-04,email,10
+2023-01-04,online video,1
+2023-01-04,organic search,10
+2023-01-04,paid search,13
+2023-01-04,paid social media,5
+2023-01-05,affiliate,5
+2023-01-05,direct visit,24
+2023-01-05,display,2
+2023-01-05,email,11
+2023-01-05,organic search,13
+2023-01-05,paid search,20
+2023-01-05,paid social media,8
+2023-01-06,affiliate,11
+2023-01-06,direct visit,25
+2023-01-06,display,5
+2023-01-06,email,23
+2023-01-06,organic search,25
+2023-01-06,paid search,33
+2023-01-06,paid social media,10
+2023-01-07,affiliate,18
+2023-01-07,direct visit,39
+2023-01-07,display,4
+2023-01-07,email,34
+2023-01-07,online video,1
+2023-01-07,organic search,22
+2023-01-07,paid search,32
+2023-01-07,paid social media,7
+2023-01-08,affiliate,11
+2023-01-08,direct visit,36
+2023-01-08,display,7
+2023-01-08,email,36
+2023-01-08,online video,3
+2023-01-08,organic search,34
+2023-01-08,paid search,32
+2023-01-08,paid social media,13
+2023-01-09,affiliate,13
+2023-01-09,direct visit,67
+2023-01-09,display,8
+2023-01-09,email,40
+2023-01-09,online video,2
+2023-01-09,organic search,22
+2023-01-09,paid search,56
+2023-01-09,paid social media,11
+2023-01-10,affiliate,21
+2023-01-10,direct visit,71
+2023-01-10,display,13
+2023-01-10,email,39
+2023-01-10,online video,3
+2023-01-10,organic search,24
+2023-01-10,paid search,42
+2023-01-10,paid social media,11
+2023-01-11,affiliate,16
+2023-01-11,direct visit,66
+2023-01-11,display,14
+2023-01-11,email,39
+2023-01-11,online video,4
+2023-01-11,organic search,35
+2023-01-11,paid search,48
+2023-01-11,paid social media,24
+2023-01-12,affiliate,14
+2023-01-12,direct visit,72
+2023-01-12,display,8
+2023-01-12,email,38
+2023-01-12,online video,4
+2023-01-12,organic search,44
+2023-01-12,paid search,57
+2023-01-12,paid social media,20
+2023-01-13,affiliate,22
+2023-01-13,direct visit,73
+2023-01-13,display,8
+2023-01-13,email,62
+2023-01-13,online video,7
+2023-01-13,organic search,40
+2023-01-13,paid search,83
+2023-01-13,paid social media,22
+2023-01-14,affiliate,34
+2023-01-14,direct visit,97
+2023-01-14,display,10
+2023-01-14,email,44
+2023-01-14,online video,4
+2023-01-14,organic search,63
+2023-01-14,paid search,76
+2023-01-14,paid social media,25
+2023-01-15,affiliate,22
+2023-01-15,direct visit,105
+2023-01-15,display,11
+2023-01-15,email,74
+2023-01-15,online video,4
+2023-01-15,organic search,52
+2023-01-15,paid search,90
+2023-01-15,paid social media,23
+2023-01-16,affiliate,19
+2023-01-16,direct visit,128
+2023-01-16,display,12
+2023-01-16,email,68
+2023-01-16,online video,8
+2023-01-16,organic search,56
+2023-01-16,paid search,86
+2023-01-16,paid social media,33
+2023-01-17,affiliate,26
+2023-01-17,direct visit,93
+2023-01-17,display,6
+2023-01-17,email,58
+2023-01-17,online video,3
+2023-01-17,organic search,57
+2023-01-17,paid search,93
+2023-01-17,paid social media,32
+2023-01-18,affiliate,27
+2023-01-18,direct visit,128
+2023-01-18,display,11
+2023-01-18,email,50
+2023-01-18,online video,10
+2023-01-18,organic search,49
+2023-01-18,paid search,89
+2023-01-18,paid social media,32
+2023-01-19,affiliate,37
+2023-01-19,direct visit,135
+2023-01-19,display,28
+2023-01-19,email,59
+2023-01-19,online video,6
+2023-01-19,organic search,64
+2023-01-19,paid search,108
+2023-01-19,paid social media,36
+2023-01-20,affiliate,28
+2023-01-20,direct visit,130
+2023-01-20,display,16
+2023-01-20,email,65
+2023-01-20,online video,9
+2023-01-20,organic search,56
+2023-01-20,paid search,101
+2023-01-20,paid social media,17
+2023-01-21,affiliate,35
+2023-01-21,direct visit,121
+2023-01-21,display,15
+2023-01-21,email,59
+2023-01-21,online video,12
+2023-01-21,organic search,53
+2023-01-21,paid search,102
+2023-01-21,paid social media,39
+2023-01-22,affiliate,38
+2023-01-22,direct visit,132
+2023-01-22,display,10
+2023-01-22,email,81
+2023-01-22,online video,7
+2023-01-22,organic search,70
+2023-01-22,paid search,96
+2023-01-22,paid social media,30
+2023-01-23,affiliate,43
+2023-01-23,direct visit,140
+2023-01-23,display,19
+2023-01-23,email,79
+2023-01-23,online video,5
+2023-01-23,organic search,63
+2023-01-23,paid search,118
+2023-01-23,paid social media,43
+2023-01-24,affiliate,38
+2023-01-24,direct visit,148
+2023-01-24,display,18
+2023-01-24,email,78
+2023-01-24,online video,8
+2023-01-24,organic search,63
+2023-01-24,paid search,107
+2023-01-24,paid social media,30
+2023-01-25,affiliate,31
+2023-01-25,direct visit,136
+2023-01-25,display,22
+2023-01-25,email,80
+2023-01-25,online video,6
+2023-01-25,organic search,85
+2023-01-25,paid search,108
+2023-01-25,paid social media,40
+2023-01-26,affiliate,41
+2023-01-26,direct visit,146
+2023-01-26,display,18
+2023-01-26,email,76
+2023-01-26,online video,14
+2023-01-26,organic search,69
+2023-01-26,paid search,115
+2023-01-26,paid social media,34
+2023-01-27,affiliate,36
+2023-01-27,direct visit,145
+2023-01-27,display,30
+2023-01-27,email,96
+2023-01-27,online video,7
+2023-01-27,organic search,54
+2023-01-27,paid search,109
+2023-01-27,paid social media,29
+2023-01-28,affiliate,34
+2023-01-28,direct visit,157
+2023-01-28,display,18
+2023-01-28,email,92
+2023-01-28,online video,9
+2023-01-28,organic search,82
+2023-01-28,paid search,129
+2023-01-28,paid social media,38
+2023-01-29,affiliate,34
+2023-01-29,direct visit,167
+2023-01-29,display,12
+2023-01-29,email,94
+2023-01-29,online video,4
+2023-01-29,organic search,75
+2023-01-29,paid search,113
+2023-01-29,paid social media,34
+2023-01-30,affiliate,40
+2023-01-30,direct visit,157
+2023-01-30,display,26
+2023-01-30,email,79
+2023-01-30,online video,6
+2023-01-30,organic search,66
+2023-01-30,paid search,109
+2023-01-30,paid social media,33
+2023-01-31,affiliate,38
+2023-01-31,direct visit,153
+2023-01-31,display,17
+2023-01-31,email,67
+2023-01-31,online video,6
+2023-01-31,organic search,98
+2023-01-31,paid search,102
+2023-01-31,paid social media,33
+2023-02-01,affiliate,39
+2023-02-01,direct visit,133
+2023-02-01,display,22
+2023-02-01,email,75
+2023-02-01,online video,9
+2023-02-01,organic search,65
+2023-02-01,paid search,130
+2023-02-01,paid social media,24
+2023-02-02,affiliate,30
+2023-02-02,direct visit,134
+2023-02-02,display,17
+2023-02-02,email,81
+2023-02-02,online video,5
+2023-02-02,organic search,61
+2023-02-02,paid search,108
+2023-02-02,paid social media,34
+2023-02-03,affiliate,40
+2023-02-03,direct visit,132
+2023-02-03,display,17
+2023-02-03,email,79
+2023-02-03,online video,8
+2023-02-03,organic search,73
+2023-02-03,paid search,121
+2023-02-03,paid social media,35
+2023-02-04,affiliate,42
+2023-02-04,direct visit,140
+2023-02-04,display,17
+2023-02-04,email,76
+2023-02-04,online video,6
+2023-02-04,organic search,85
+2023-02-04,paid search,104
+2023-02-04,paid social media,45
+2023-02-05,affiliate,27
+2023-02-05,direct visit,123
+2023-02-05,display,19
+2023-02-05,email,85
+2023-02-05,online video,5
+2023-02-05,organic search,80
+2023-02-05,paid search,124
+2023-02-05,paid social media,35
+2023-02-06,affiliate,30
+2023-02-06,direct visit,127
+2023-02-06,display,21
+2023-02-06,email,84
+2023-02-06,online video,5
+2023-02-06,organic search,75
+2023-02-06,paid search,100
+2023-02-06,paid social media,34
+2023-02-07,affiliate,44
+2023-02-07,direct visit,130
+2023-02-07,display,9
+2023-02-07,email,87
+2023-02-07,online video,4
+2023-02-07,organic search,52
+2023-02-07,paid search,117
+2023-02-07,paid social media,34
+2023-02-08,affiliate,34
+2023-02-08,direct visit,132
+2023-02-08,display,20
+2023-02-08,email,85
+2023-02-08,online video,9
+2023-02-08,organic search,66
+2023-02-08,paid search,124
+2023-02-08,paid social media,38
+2023-02-09,affiliate,37
+2023-02-09,direct visit,150
+2023-02-09,display,18
+2023-02-09,email,92
+2023-02-09,online video,10
+2023-02-09,organic search,68
+2023-02-09,paid search,124
+2023-02-09,paid social media,29
+2023-02-10,affiliate,36
+2023-02-10,direct visit,146
+2023-02-10,display,25
+2023-02-10,email,92
+2023-02-10,online video,5
+2023-02-10,organic search,79
+2023-02-10,paid search,113
+2023-02-10,paid social media,21
+2023-02-11,affiliate,40
+2023-02-11,direct visit,119
+2023-02-11,display,19
+2023-02-11,email,91
+2023-02-11,online video,6
+2023-02-11,organic search,86
+2023-02-11,paid search,126
+2023-02-11,paid social media,30
+2023-02-12,affiliate,46
+2023-02-12,direct visit,166
+2023-02-12,display,24
+2023-02-12,email,82
+2023-02-12,online video,8
+2023-02-12,organic search,65
+2023-02-12,paid search,118
+2023-02-12,paid social media,36
+2023-02-13,affiliate,33
+2023-02-13,direct visit,155
+2023-02-13,display,18
+2023-02-13,email,75
+2023-02-13,online video,7
+2023-02-13,organic search,80
+2023-02-13,paid search,113
+2023-02-13,paid social media,35
+2023-02-14,affiliate,37
+2023-02-14,direct visit,118
+2023-02-14,display,19
+2023-02-14,email,101
+2023-02-14,online video,6
+2023-02-14,organic search,84
+2023-02-14,paid search,114
+2023-02-14,paid social media,37
+2023-02-15,affiliate,39
+2023-02-15,direct visit,156
+2023-02-15,display,21
+2023-02-15,email,90
+2023-02-15,online video,10
+2023-02-15,organic search,80
+2023-02-15,paid search,114
+2023-02-15,paid social media,22
+2023-02-16,affiliate,40
+2023-02-16,direct visit,125
+2023-02-16,display,20
+2023-02-16,email,85
+2023-02-16,online video,7
+2023-02-16,organic search,73
+2023-02-16,paid search,131
+2023-02-16,paid social media,25
+2023-02-17,affiliate,38
+2023-02-17,direct visit,163
+2023-02-17,display,22
+2023-02-17,email,93
+2023-02-17,online video,8
+2023-02-17,organic search,69
+2023-02-17,paid search,116
+2023-02-17,paid social media,39
+2023-02-18,affiliate,37
+2023-02-18,direct visit,139
+2023-02-18,display,23
+2023-02-18,email,84
+2023-02-18,online video,7
+2023-02-18,organic search,70
+2023-02-18,paid search,122
+2023-02-18,paid social media,34
+2023-02-19,affiliate,42
+2023-02-19,direct visit,151
+2023-02-19,display,20
+2023-02-19,email,86
+2023-02-19,online video,6
+2023-02-19,organic search,83
+2023-02-19,paid search,106
+2023-02-19,paid social media,40
+2023-02-20,affiliate,46
+2023-02-20,direct visit,149
+2023-02-20,display,20
+2023-02-20,email,94
+2023-02-20,online video,11
+2023-02-20,organic search,75
+2023-02-20,paid search,113
+2023-02-20,paid social media,43
+2023-02-21,affiliate,33
+2023-02-21,direct visit,137
+2023-02-21,display,20
+2023-02-21,email,94
+2023-02-21,online video,7
+2023-02-21,organic search,77
+2023-02-21,paid search,100
+2023-02-21,paid social media,45
+2023-02-22,affiliate,37
+2023-02-22,direct visit,148
+2023-02-22,display,12
+2023-02-22,email,78
+2023-02-22,online video,7
+2023-02-22,organic search,79
+2023-02-22,paid search,141
+2023-02-22,paid social media,40
+2023-02-23,affiliate,32
+2023-02-23,direct visit,123
+2023-02-23,display,19
+2023-02-23,email,87
+2023-02-23,online video,6
+2023-02-23,organic search,74
+2023-02-23,paid search,118
+2023-02-23,paid social media,38
+2023-02-24,affiliate,45
+2023-02-24,direct visit,151
+2023-02-24,display,21
+2023-02-24,email,90
+2023-02-24,online video,6
+2023-02-24,organic search,61
+2023-02-24,paid search,123
+2023-02-24,paid social media,34
+2023-02-25,affiliate,52
+2023-02-25,direct visit,146
+2023-02-25,display,15
+2023-02-25,email,84
+2023-02-25,online video,12
+2023-02-25,organic search,57
+2023-02-25,paid search,104
+2023-02-25,paid social media,21
+2023-02-26,affiliate,32
+2023-02-26,direct visit,133
+2023-02-26,display,17
+2023-02-26,email,82
+2023-02-26,online video,7
+2023-02-26,organic search,94
+2023-02-26,paid search,117
+2023-02-26,paid social media,33
+2023-02-27,affiliate,32
+2023-02-27,direct visit,136
+2023-02-27,display,20
+2023-02-27,email,93
+2023-02-27,online video,11
+2023-02-27,organic search,77
+2023-02-27,paid search,114
+2023-02-27,paid social media,44
+2023-02-28,affiliate,42
+2023-02-28,direct visit,143
+2023-02-28,display,16
+2023-02-28,email,75
+2023-02-28,online video,3
+2023-02-28,organic search,76
+2023-02-28,paid search,90
+2023-02-28,paid social media,42
+2023-03-01,affiliate,29
+2023-03-01,direct visit,121
+2023-03-01,display,10
+2023-03-01,email,90
+2023-03-01,online video,9
+2023-03-01,organic search,82
+2023-03-01,paid search,107
+2023-03-01,paid social media,22
+2023-03-02,affiliate,32
+2023-03-02,direct visit,143
+2023-03-02,display,16
+2023-03-02,email,101
+2023-03-02,online video,3
+2023-03-02,organic search,66
+2023-03-02,paid search,135
+2023-03-02,paid social media,30
+2023-03-03,affiliate,41
+2023-03-03,direct visit,133
+2023-03-03,display,21
+2023-03-03,email,73
+2023-03-03,online video,11
+2023-03-03,organic search,55
+2023-03-03,paid search,104
+2023-03-03,paid social media,26
+2023-03-04,affiliate,26
+2023-03-04,direct visit,161
+2023-03-04,display,17
+2023-03-04,email,73
+2023-03-04,online video,6
+2023-03-04,organic search,69
+2023-03-04,paid search,120
+2023-03-04,paid social media,35
+2023-03-05,affiliate,40
+2023-03-05,direct visit,144
+2023-03-05,display,17
+2023-03-05,email,92
+2023-03-05,online video,6
+2023-03-05,organic search,87
+2023-03-05,paid search,110
+2023-03-05,paid social media,46
+2023-03-06,affiliate,50
+2023-03-06,direct visit,162
+2023-03-06,display,12
+2023-03-06,email,114
+2023-03-06,online video,5
+2023-03-06,organic search,61
+2023-03-06,paid search,129
+2023-03-06,paid social media,39
+2023-03-07,affiliate,42
+2023-03-07,direct visit,145
+2023-03-07,display,25
+2023-03-07,email,89
+2023-03-07,online video,6
+2023-03-07,organic search,75
+2023-03-07,paid search,114
+2023-03-07,paid social media,40
+2023-03-08,affiliate,29
+2023-03-08,direct visit,150
+2023-03-08,display,18
+2023-03-08,email,94
+2023-03-08,online video,6
+2023-03-08,organic search,64
+2023-03-08,paid search,138
+2023-03-08,paid social media,27
+2023-03-09,affiliate,28
+2023-03-09,direct visit,143
+2023-03-09,display,24
+2023-03-09,email,77
+2023-03-09,online video,11
+2023-03-09,organic search,70
+2023-03-09,paid search,115
+2023-03-09,paid social media,28
+2023-03-10,affiliate,43
+2023-03-10,direct visit,153
+2023-03-10,display,21
+2023-03-10,email,97
+2023-03-10,online video,11
+2023-03-10,organic search,72
+2023-03-10,paid search,133
+2023-03-10,paid social media,32
+2023-03-11,affiliate,38
+2023-03-11,direct visit,120
+2023-03-11,display,13
+2023-03-11,email,97
+2023-03-11,online video,6
+2023-03-11,organic search,69
+2023-03-11,paid search,134
+2023-03-11,paid social media,39
+2023-03-12,affiliate,42
+2023-03-12,direct visit,160
+2023-03-12,display,15
+2023-03-12,email,107
+2023-03-12,online video,10
+2023-03-12,organic search,83
+2023-03-12,paid search,131
+2023-03-12,paid social media,39
+2023-03-13,affiliate,41
+2023-03-13,direct visit,145
+2023-03-13,display,26
+2023-03-13,email,91
+2023-03-13,online video,11
+2023-03-13,organic search,83
+2023-03-13,paid search,123
+2023-03-13,paid social media,37
+2023-03-14,affiliate,36
+2023-03-14,direct visit,134
+2023-03-14,display,30
+2023-03-14,email,89
+2023-03-14,online video,6
+2023-03-14,organic search,86
+2023-03-14,paid search,100
+2023-03-14,paid social media,45
+2023-03-15,affiliate,32
+2023-03-15,direct visit,173
+2023-03-15,display,25
+2023-03-15,email,100
+2023-03-15,online video,11
+2023-03-15,organic search,85
+2023-03-15,paid search,130
+2023-03-15,paid social media,31
+2023-03-16,affiliate,55
+2023-03-16,direct visit,156
+2023-03-16,display,16
+2023-03-16,email,81
+2023-03-16,online video,6
+2023-03-16,organic search,81
+2023-03-16,paid search,143
+2023-03-16,paid social media,26
+2023-03-17,affiliate,35
+2023-03-17,direct visit,187
+2023-03-17,display,26
+2023-03-17,email,92
+2023-03-17,online video,12
+2023-03-17,organic search,79
+2023-03-17,paid search,110
+2023-03-17,paid social media,37
+2023-03-18,affiliate,37
+2023-03-18,direct visit,170
+2023-03-18,display,17
+2023-03-18,email,108
+2023-03-18,online video,9
+2023-03-18,organic search,97
+2023-03-18,paid search,123
+2023-03-18,paid social media,27
+2023-03-19,affiliate,43
+2023-03-19,direct visit,157
+2023-03-19,display,19
+2023-03-19,email,97
+2023-03-19,online video,6
+2023-03-19,organic search,75
+2023-03-19,paid search,114
+2023-03-19,paid social media,37
+2023-03-20,affiliate,35
+2023-03-20,direct visit,147
+2023-03-20,display,27
+2023-03-20,email,98
+2023-03-20,online video,13
+2023-03-20,organic search,63
+2023-03-20,paid search,109
+2023-03-20,paid social media,27
+2023-03-21,affiliate,36
+2023-03-21,direct visit,174
+2023-03-21,display,17
+2023-03-21,email,99
+2023-03-21,online video,9
+2023-03-21,organic search,72
+2023-03-21,paid search,129
+2023-03-21,paid social media,29
+2023-03-22,affiliate,38
+2023-03-22,direct visit,151
+2023-03-22,display,16
+2023-03-22,email,80
+2023-03-22,online video,11
+2023-03-22,organic search,82
+2023-03-22,paid search,95
+2023-03-22,paid social media,43
+2023-03-23,affiliate,33
+2023-03-23,direct visit,148
+2023-03-23,display,25
+2023-03-23,email,66
+2023-03-23,online video,5
+2023-03-23,organic search,68
+2023-03-23,paid search,115
+2023-03-23,paid social media,38
+2023-03-24,affiliate,36
+2023-03-24,direct visit,136
+2023-03-24,display,14
+2023-03-24,email,101
+2023-03-24,online video,8
+2023-03-24,organic search,60
+2023-03-24,paid search,104
+2023-03-24,paid social media,51
+2023-03-25,affiliate,37
+2023-03-25,direct visit,144
+2023-03-25,display,19
+2023-03-25,email,95
+2023-03-25,online video,11
+2023-03-25,organic search,70
+2023-03-25,paid search,101
+2023-03-25,paid social media,37
+2023-03-26,affiliate,38
+2023-03-26,direct visit,168
+2023-03-26,display,17
+2023-03-26,email,79
+2023-03-26,online video,11
+2023-03-26,organic search,74
+2023-03-26,paid search,117
+2023-03-26,paid social media,30
+2023-03-27,affiliate,43
+2023-03-27,direct visit,139
+2023-03-27,display,14
+2023-03-27,email,79
+2023-03-27,online video,4
+2023-03-27,organic search,68
+2023-03-27,paid search,111
+2023-03-27,paid social media,38
+2023-03-28,affiliate,45
+2023-03-28,direct visit,161
+2023-03-28,display,16
+2023-03-28,email,96
+2023-03-28,online video,3
+2023-03-28,organic search,68
+2023-03-28,paid search,105
+2023-03-28,paid social media,41
+2023-03-29,affiliate,36
+2023-03-29,direct visit,144
+2023-03-29,display,14
+2023-03-29,email,85
+2023-03-29,online video,6
+2023-03-29,organic search,78
+2023-03-29,paid search,106
+2023-03-29,paid social media,40
+2023-03-30,affiliate,42
+2023-03-30,direct visit,162
+2023-03-30,display,17
+2023-03-30,email,76
+2023-03-30,online video,4
+2023-03-30,organic search,68
+2023-03-30,paid search,114
+2023-03-30,paid social media,37
+2023-03-31,affiliate,39
+2023-03-31,direct visit,150
+2023-03-31,display,22
+2023-03-31,email,91
+2023-03-31,online video,10
+2023-03-31,organic search,72
+2023-03-31,paid search,113
+2023-03-31,paid social media,40
+2023-04-01,affiliate,47
+2023-04-01,direct visit,152
+2023-04-01,display,13
+2023-04-01,email,88
+2023-04-01,online video,5
+2023-04-01,organic search,57
+2023-04-01,paid search,102
+2023-04-01,paid social media,42
+2023-04-02,affiliate,29
+2023-04-02,direct visit,151
+2023-04-02,display,19
+2023-04-02,email,79
+2023-04-02,online video,3
+2023-04-02,organic search,77
+2023-04-02,paid search,89
+2023-04-02,paid social media,40
+2023-04-03,affiliate,44
+2023-04-03,direct visit,129
+2023-04-03,display,20
+2023-04-03,email,87
+2023-04-03,online video,9
+2023-04-03,organic search,80
+2023-04-03,paid search,118
+2023-04-03,paid social media,43
+2023-04-04,affiliate,42
+2023-04-04,direct visit,163
+2023-04-04,display,13
+2023-04-04,email,82
+2023-04-04,online video,6
+2023-04-04,organic search,76
+2023-04-04,paid search,130
+2023-04-04,paid social media,26
+2023-04-05,affiliate,48
+2023-04-05,direct visit,157
+2023-04-05,display,18
+2023-04-05,email,82
+2023-04-05,online video,4
+2023-04-05,organic search,72
+2023-04-05,paid search,116
+2023-04-05,paid social media,40
+2023-04-06,affiliate,47
+2023-04-06,direct visit,142
+2023-04-06,display,14
+2023-04-06,email,82
+2023-04-06,online video,12
+2023-04-06,organic search,72
+2023-04-06,paid search,118
+2023-04-06,paid social media,34
+2023-04-07,affiliate,59
+2023-04-07,direct visit,146
+2023-04-07,display,27
+2023-04-07,email,85
+2023-04-07,online video,8
+2023-04-07,organic search,55
+2023-04-07,paid search,117
+2023-04-07,paid social media,29
+2023-04-08,affiliate,36
+2023-04-08,direct visit,140
+2023-04-08,display,31
+2023-04-08,email,76
+2023-04-08,online video,4
+2023-04-08,organic search,88
+2023-04-08,paid search,114
+2023-04-08,paid social media,33
+2023-04-09,affiliate,35
+2023-04-09,direct visit,172
+2023-04-09,display,23
+2023-04-09,email,86
+2023-04-09,online video,9
+2023-04-09,organic search,79
+2023-04-09,paid search,103
+2023-04-09,paid social media,34
+2023-04-10,affiliate,38
+2023-04-10,direct visit,140
+2023-04-10,display,12
+2023-04-10,email,91
+2023-04-10,online video,6
+2023-04-10,organic search,76
+2023-04-10,paid search,101
+2023-04-10,paid social media,44
+2023-04-11,affiliate,50
+2023-04-11,direct visit,150
+2023-04-11,display,18
+2023-04-11,email,89
+2023-04-11,online video,8
+2023-04-11,organic search,81
+2023-04-11,paid search,109
+2023-04-11,paid social media,29
+2023-04-12,affiliate,38
+2023-04-12,direct visit,152
+2023-04-12,display,21
+2023-04-12,email,86
+2023-04-12,online video,10
+2023-04-12,organic search,77
+2023-04-12,paid search,118
+2023-04-12,paid social media,35
+2023-04-13,affiliate,42
+2023-04-13,direct visit,151
+2023-04-13,display,21
+2023-04-13,email,88
+2023-04-13,online video,4
+2023-04-13,organic search,61
+2023-04-13,paid search,112
+2023-04-13,paid social media,27
+2023-04-14,affiliate,27
+2023-04-14,direct visit,148
+2023-04-14,display,10
+2023-04-14,email,77
+2023-04-14,online video,7
+2023-04-14,organic search,64
+2023-04-14,paid search,84
+2023-04-14,paid social media,29
+2023-04-15,affiliate,34
+2023-04-15,direct visit,127
+2023-04-15,display,16
+2023-04-15,email,72
+2023-04-15,online video,4
+2023-04-15,organic search,54
+2023-04-15,paid search,115
+2023-04-15,paid social media,28
+2023-04-16,affiliate,28
+2023-04-16,direct visit,132
+2023-04-16,display,10
+2023-04-16,email,61
+2023-04-16,online video,6
+2023-04-16,organic search,60
+2023-04-16,paid search,90
+2023-04-16,paid social media,29
+2023-04-17,affiliate,25
+2023-04-17,direct visit,97
+2023-04-17,display,18
+2023-04-17,email,57
+2023-04-17,online video,8
+2023-04-17,organic search,49
+2023-04-17,paid search,75
+2023-04-17,paid social media,25
+2023-04-18,affiliate,31
+2023-04-18,direct visit,99
+2023-04-18,display,16
+2023-04-18,email,55
+2023-04-18,online video,3
+2023-04-18,organic search,28
+2023-04-18,paid search,66
+2023-04-18,paid social media,22
+2023-04-19,affiliate,25
+2023-04-19,direct visit,108
+2023-04-19,display,19
+2023-04-19,email,50
+2023-04-19,online video,4
+2023-04-19,organic search,43
+2023-04-19,paid search,64
+2023-04-19,paid social media,24
+2023-04-20,affiliate,19
+2023-04-20,direct visit,68
+2023-04-20,display,10
+2023-04-20,email,48
+2023-04-20,online video,1
+2023-04-20,organic search,29
+2023-04-20,paid search,58
+2023-04-20,paid social media,15
+2023-04-21,affiliate,18
+2023-04-21,direct visit,91
+2023-04-21,display,8
+2023-04-21,email,41
+2023-04-21,online video,5
+2023-04-21,organic search,42
+2023-04-21,paid search,48
+2023-04-21,paid social media,15
+2023-04-22,affiliate,18
+2023-04-22,direct visit,64
+2023-04-22,display,7
+2023-04-22,email,43
+2023-04-22,online video,4
+2023-04-22,organic search,24
+2023-04-22,paid search,54
+2023-04-22,paid social media,15
+2023-04-23,affiliate,19
+2023-04-23,direct visit,56
+2023-04-23,display,6
+2023-04-23,email,33
+2023-04-23,online video,6
+2023-04-23,organic search,33
+2023-04-23,paid search,38
+2023-04-23,paid social media,7
+2023-04-24,affiliate,7
+2023-04-24,direct visit,50
+2023-04-24,display,6
+2023-04-24,email,27
+2023-04-24,online video,6
+2023-04-24,organic search,13
+2023-04-24,paid search,44
+2023-04-24,paid social media,10
+2023-04-25,affiliate,13
+2023-04-25,direct visit,43
+2023-04-25,display,4
+2023-04-25,email,24
+2023-04-25,online video,3
+2023-04-25,organic search,32
+2023-04-25,paid search,25
+2023-04-25,paid social media,12
+2023-04-26,affiliate,13
+2023-04-26,direct visit,36
+2023-04-26,display,4
+2023-04-26,email,18
+2023-04-26,online video,3
+2023-04-26,organic search,18
+2023-04-26,paid search,25
+2023-04-26,paid social media,9
+2023-04-27,affiliate,14
+2023-04-27,direct visit,36
+2023-04-27,display,6
+2023-04-27,email,22
+2023-04-27,online video,1
+2023-04-27,organic search,8
+2023-04-27,paid search,19
+2023-04-27,paid social media,6
+2023-04-28,affiliate,6
+2023-04-28,direct visit,32
+2023-04-28,display,4
+2023-04-28,email,13
+2023-04-28,online video,2
+2023-04-28,organic search,12
+2023-04-28,paid search,14
+2023-04-28,paid social media,4
+2023-04-29,affiliate,4
+2023-04-29,direct visit,27
+2023-04-29,display,3
+2023-04-29,email,12
+2023-04-29,online video,1
+2023-04-29,organic search,13
+2023-04-29,paid search,15
+2023-04-29,paid social media,5
+2023-04-30,affiliate,2
+2023-04-30,direct visit,21
+2023-04-30,display,3
+2023-04-30,email,8
+2023-04-30,online video,1
+2023-04-30,organic search,12
+2023-04-30,paid search,18
+2023-04-30,paid social media,7
+2023-05-01,affiliate,3
+2023-05-01,direct visit,7
+2023-05-01,display,1
+2023-05-01,email,13
+2023-05-01,organic search,6
+2023-05-01,paid search,6
+2023-05-01,paid social media,5
+2023-05-02,affiliate,5
+2023-05-02,direct visit,7
+2023-05-02,display,4
+2023-05-02,email,10
+2023-05-02,organic search,3
+2023-05-02,paid search,5
+2023-05-02,paid social media,1
+2023-05-03,affiliate,1
+2023-05-03,direct visit,11
+2023-05-03,display,1
+2023-05-03,email,4
+2023-05-03,organic search,5
+2023-05-03,paid search,3
+2023-05-03,paid social media,1
+2023-05-04,affiliate,1
+2023-05-04,direct visit,6
+2023-05-04,email,2
+2023-05-04,organic search,4
+2023-05-04,paid search,3
+2023-05-04,paid social media,1
+2023-05-05,affiliate,1
+2023-05-05,direct visit,4
+2023-05-05,display,1
+2023-05-05,paid search,7
+2023-05-06,display,1
+2023-05-06,paid search,1
+2023-05-07,direct visit,1
+2023-05-07,organic search,1
+2023-05-07,paid search,2

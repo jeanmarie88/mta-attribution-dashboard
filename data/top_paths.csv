@@ -1,0 +1,16 @@
+path,conversions
+direct visit > direct visit > direct visit,7
+direct visit > paid search > direct visit,7
+paid search > paid search > email,6
+organic search > paid search > direct visit,6
+direct visit > direct visit,5
+paid search > direct visit > direct visit,5
+direct visit > direct visit > affiliate,5
+email > direct visit > direct visit,5
+direct visit > direct visit > email,5
+paid search > email > email,5
+paid search > email > direct visit,4
+direct visit > direct visit > paid social media,4
+email > organic search > direct visit,4
+organic search > email > paid search,4
+direct visit > organic search > direct visit,4

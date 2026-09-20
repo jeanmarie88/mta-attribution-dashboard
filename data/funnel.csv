@@ -1,0 +1,25 @@
+touchpoint,stage,touchpoints,pct
+affiliate,Opening,1513,39.30891140555989
+affiliate,Middle,1007,26.16263964666147
+affiliate,Closing,1329,34.52844894777864
+direct visit,Opening,5868,39.88038602691314
+direct visit,Middle,3887,26.417017806170996
+direct visit,Closing,4959,33.70259616691586
+display,Opening,761,40.094836670179134
+display,Middle,490,25.816649104320337
+display,Closing,647,34.088514225500525
+email,Opening,3404,39.41183281231909
+email,Middle,2320,26.861178649994212
+email,Closing,2913,33.726988537686694
+online video,Opening,325,42.98941798941799
+online video,Middle,176,23.28042328042328
+online video,Closing,255,33.730158730158735
+organic search,Opening,2872,39.34246575342466
+organic search,Middle,1961,26.86301369863014
+organic search,Closing,2467,33.794520547945204
+paid search,Opening,4500,39.20202108197578
+paid search,Middle,3058,26.639951215262652
+paid search,Closing,3921,34.158027702761565
+paid social media,Opening,1397,39.91428571428571
+paid social media,Middle,897,25.62857142857143
+paid social media,Closing,1206,34.457142857142856
